@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Pendaftaran Mahasiswa</title>
+</head>
+<body>
+
+    <h1>Form Pendaftaran Mahasiswa</h1>
+
+    <form action="#" method="post">
+
+        <label for="nama">Nama:</label><br>
+        <input type="text" id="nama" name="nama" required>
+        <br><br>
+
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email" required>
+        <br><br>
+
+        <label for="password">Password:</label><br>
+        <input type="password" id="password" name="password" required>
+        <br><br>
+
+        <label>Jenis Kelamin:</label><br>
+
+        <input type="radio" id="laki-laki" name="jenis_kelamin" value="Laki-laki">
+        <label for="laki-laki">Laki-laki</label>
+
+        <input type="radio" id="perempuan" name="jenis_kelamin" value="Perempuan">
+        <label for="perempuan">Perempuan</label>
+
+        <br><br>
+
+        <label>Hobi:</label><br>
+
+        <input type="checkbox" id="membaca" name="hobi" value="Membaca">
+        <label for="membaca">Membaca</label><br>
+
+        <input type="checkbox" id="gaming" name="hobi" value="Gaming">
+        <label for="gaming">Gaming</label><br>
+
+        <input type="checkbox" id="olahraga" name="hobi" value="Olahraga">
+        <label for="olahraga">Olahraga</label>
+
+        <br><br>
+
+        <label for="pendidikan">Pendidikan:</label><br>
+
+        <select id="pendidikan" name="pendidikan">
+            <option value="">-- Pilih Pendidikan --</option>
+            <option value="SMA">SMA</option>
+            <option value="SMK">SMK</option>
+            <option value="MA">MA</option>
+            <option value="D3">D3</option>
+            <option value="S1">S1</option>
+        </select>
+
+        <br><br>
+
+        <label for="kritik_saran">Kritik dan Saran:</label><br>
+
+        <textarea 
+            id="kritik_saran" 
+            name="kritik_saran" 
+            rows="5" 
+            cols="40"
+            placeholder="Tuliskan kritik dan saran Anda..."
+        ></textarea>
+
+        <br><br>
+
+        <input type="submit" value="Submit">
+
+    </form>
+
+</body>
+</html>
