@@ -33,8 +33,8 @@ aksesibilitas dasar.
 Tersedia di [Soal1.html](Data_Mahasiswa.html) dan [Soal2.html](Form_Pendaftaran.html)
 
 ## Output
-![alt text](gambar/Data_Mahasiswa.png)
-![alt text](gambar/Form_Pendaftaran.png)
+![alt text](Data_Mahasiswa.png)
+![alt text](Form_Pendaftaran.png)
 
 ## Deskripsi
 Pada soal pertama, saya membuat halaman HTML sederhana dengan tema Data Mahasiswa. Pada halaman tersebut terdapat judul “Data Mahasiswa” dan paragraf yang menjelaskan isi dari halaman. Saya juga menambahkan link menuju website Telkom University.
