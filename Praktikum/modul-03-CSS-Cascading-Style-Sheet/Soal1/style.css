@@ -1,0 +1,78 @@
+/* Selector dan Color */
+body {
+    background-color: #f2f2f2;
+    color: #333333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 30px;
+}
+
+/* Bagian profil */
+.profil {
+    background-color: white;
+    width: 70%;
+    max-width: 700px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+/* Judul */
+h1 {
+    color: #2563eb;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+/* Nama */
+h2 {
+    color: #444444;
+    text-align: center;
+    font-size: 28px;
+    font-style: italic;
+}
+
+/* Deskripsi */
+.deskripsi {
+    font-size: 17px;
+    line-height: 1.7;
+    text-align: justify;
+}
+
+/* Informasi */
+.informasi {
+    background-color: #eaf2ff;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.informasi h3 {
+    color: #2563eb;
+    font-size: 22px;
+}
+
+/* List */
+.informasi ul {
+    padding-left: 25px;
+}
+
+.informasi li {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+/* Span */
+.penutup {
+    text-align: center;
+    margin-top: 25px;
+    font-size: 16px;
+}
+
+.penutup span {
+    color: #2563eb;
+    font-weight: bold;
+    font-style: italic;
+}
