@@ -48,8 +48,8 @@ Pastikan kode dapat dijalankan menggunakan browser atau Live Server pada Visual 
 
 
 ## Program/Kode
-Soal 1 tersedia di [Soal1_index.html](<Soal 1/index.html>) dan [Soal1_style.css](<Soal 1/style.css>).<br>
-Soal 2 tersedia di [Soal2_index.html](<Soal 2/index.html>) dan [Soal2_style.css](<Soal 2/style.css>).
+Soal 1 tersedia di [Soal1_index.html](<Soal 1/Soal1_index.html>) dan [Soal1_style.css](<Soal 1/Soal1_style.css>).<br>
+Soal 2 tersedia di [Soal2_index.html](<Soal 2/Soal2_index.html>) dan [Soal2_style.css](<Soal 2/Soal2_style.css>).
 
 
 ## Output
