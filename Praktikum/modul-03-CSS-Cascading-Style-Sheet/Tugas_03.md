@@ -48,16 +48,16 @@ Pastikan kode dapat dijalankan menggunakan browser atau Live Server pada Visual 
 
 
 ## Program/Kode
-Soal 1 tersedia di [Soal1_index.html](<Soal 1/index.html>) dan [Soal1_style.css](<Soal 1/style.css>).<br>
-Soal 2 tersedia di [Soal2_index.html](<Soal 2/index.html>) dan [Soal2_style.css](<Soal 2/style.css>).
+Soal 1 tersedia di [index.html](<Soal 1/index.html>) dan [style.css](<Soal 1/style.css>).<br>
+Soal 2 tersedia di [index.html](<Soal 2/index.html>) dan [style.css](<Soal 2/style.css>).
 
 
 ## Output
-![Soal1](Gambar Output/Soal1.png)
-![Soal2](Gambar Output/Soal2.png)
+![Soal1](GambarOutput/Soal1.png)
+![Soal 2](GambarOutput/Soal2.png)
 
 ## Deskripsi
-Pada praktikum ini dilakukan pembuatan dua halaman website sederhana menggunakan HTML dan CSS. Praktikum bertujuan untuk memahami dan menerapkan beberapa konsep dasar CSS dalam mengatur tampilan dan tata letak halaman web.
+Pada praktikum ini dilakukan pembuatan dua halaman website sederhana menggunakan HTML dan CSS. Praktikum bertujuan untuk memahami dan menerapkan beberapa konsep dasar CSS dalam mengatur tampilan dan tata letak halaman web. 
 
 **Pada Soal 1** dibuat halaman profil sederhana yang terdiri dari judul, deskripsi, dan daftar informasi. Styling yang diterapkan meliputi CSS Selector, Font Properties, List, Text Alignment, Color, Div, dan Span. Penggunaan <ul> dan <li> berfungsi untuk menampilkan daftar informasi profil agar lebih terstruktur dan mudah dibaca. CSS digunakan untuk mengatur jenis dan ukuran font, warna teks dan background, posisi teks, serta tampilan daftar agar halaman profil terlihat lebih rapi.
 
