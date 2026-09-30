@@ -48,8 +48,8 @@ Pastikan kode dapat dijalankan menggunakan browser atau Live Server pada Visual 
 
 
 ## Program/Kode
-Soal 1 tersedia di [Soal1_index.html](<Soal 1/Soal1_index.html>) dan [Soal1_style.css](<Soal 1/Soal1_style.css>).<br>
-Soal 2 tersedia di [Soal2_index.html](<Soal 2/Soal2_index.html>) dan [Soal2_style.css](<Soal 2/Soal2_style.css>).
+Soal 1 tersedia di [Soal 1](Praktikum/modul-03-CSS-Cascading-Style-Sheet/Soal1/Soal1_index.html) <br>
+Soal 2 tersedia di [Soal 1](Praktikum/modul-03-CSS-Cascading-Style-Sheet/Soal1/Soal1_index.html)
 
 
 ## Output
