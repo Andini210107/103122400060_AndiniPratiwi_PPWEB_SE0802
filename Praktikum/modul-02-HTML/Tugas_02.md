@@ -30,7 +30,8 @@ Gunakan elemen <label> pada setiap input agar form lebih mudah digunakan dan men
 aksesibilitas dasar.
 
 ## Program/Kode
-Tersedia di [Soal1.html](Data_Mahasiswa.html) dan [Soal2.html](Form_Pendaftaran.html)
+
+Tersedia di [Soal1.html](Soal1.html) dan [Soal2.html](Soal2.html)
 
 ## Output
 ![alt text](Data_Mahasiswa.png)
